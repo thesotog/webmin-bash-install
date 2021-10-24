@@ -2,9 +2,9 @@ From the [webmin](https://www.webmin.com/deb.html) documentation.
 
 ### webmin-bash-install
 
-A bash file to install Webmin in a Ubuntu Server fresh installation.
+A bash file to install Webmin in a Ubuntu Server.
 
-Tested as __root__ user in:
+Tested in a fresh installation as __root__ user in:
 
 Ubuntu Server 18.04 LTS Bionic Beaver<br>
 Ubuntu Server 20.04 LTS Focal Fossa<br>
