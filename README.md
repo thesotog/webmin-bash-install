@@ -2,7 +2,7 @@ From the [webmin](https://www.webmin.com/deb.html) documentation.
 
 ### webmin-bash-install
 
-A bash file to install Webmin in a Ubuntu Server.
+A bash file to install Webmin in a Ubuntu Server.<br>
 Webmin 1.981
 
 Tested in a fresh installation as __root__ user in:
