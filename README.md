@@ -5,7 +5,6 @@ From the [webmin](https://www.webmin.com/deb.html) documentation.
 Webmin 1.981
 
 A bash file to install Webmin in a Ubuntu Server.
-
 Tested in a fresh installation as __root__ user in:
 
 Ubuntu Server 18.04 LTS Bionic Beaver<br>
