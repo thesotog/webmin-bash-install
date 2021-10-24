@@ -1,6 +1,7 @@
 # webmin-bash-install
 
-A bash file to install Webmin in a Ubuntu Server fresh installation
+A bash file to install Webmin in a Ubuntu Server fresh installation.
+
 Tested as root user in:
 
 Ubuntu Server 18.04 LTS Bionic Beaver
