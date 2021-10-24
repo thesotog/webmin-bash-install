@@ -7,6 +7,13 @@ Webmin 1.981
 
 Tested in a fresh installation as __root__ user in:
 
-Ubuntu Server 18.04 LTS Bionic Beaver<br>
-Ubuntu Server 20.04 LTS Focal Fossa<br>
-Ubuntu Server 21.04 Hirsute Hippo<br>
+Ubuntu Server __18.04__ LTS Bionic Beaver<br>
+Ubuntu Server __20.04__ LTS Focal Fossa<br>
+Ubuntu Server __21.04__ Hirsute Hippo<br>
+
+After create the file just change the permissions a run the file.
+
+```bash
+chmod 775 webmin-install.sh
+./webmin-install.sh
+```
