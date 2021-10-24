@@ -1,4 +1,4 @@
-From the [webmin](https://www.webmin.com/deb.html) documentation
+From the [webmin](https://www.webmin.com/deb.html) documentation.
 
 ### webmin-bash-install
 
