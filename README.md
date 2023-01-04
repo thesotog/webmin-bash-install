@@ -3,7 +3,7 @@ From the [webmin](https://www.webmin.com/deb.html) documentation.
 ### webmin-bash-install
 
 A bash file to install Webmin in a Ubuntu Server.<br>
-Webmin 1.981
+Webmin 2.010
 
 Tested in a fresh installation as __root__ user in:
 
@@ -17,3 +17,4 @@ After create the file just change the permissions a run the file.
 chmod 775 webmin-install.sh
 ./webmin-install.sh
 ```
+also you can run sh webmin-install.sh
